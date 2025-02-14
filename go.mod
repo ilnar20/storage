@@ -1,4 +1,4 @@
-module github.com/ilnar20/storage
+module github.com/ilnar20/storage/v2
 
 go 1.22.11
 

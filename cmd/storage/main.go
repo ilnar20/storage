@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/ilnar20/storage/internal/storage"
+	"github.com/ilnar20/storage/v2/internal/storage"
 )
 
 func main() {
